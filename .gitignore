@@ -1,0 +1,9 @@
+*.cfg
+*.exe
+*.json
+*.txt
+*.bat
+*.log
+*.zip
+/.idea
+/bin
